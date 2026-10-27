@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jasonpart2/legs"
+	"$nocull" 1
+}

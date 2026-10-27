@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/tfa_mw2019_pitchfork"
+	"$translucent" 1
+}

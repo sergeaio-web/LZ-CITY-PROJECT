@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmdeschool/decal_restroom01a"
+	"$translucent" 1
+	"$decalscale" 0.0625
+$decal 1
+}

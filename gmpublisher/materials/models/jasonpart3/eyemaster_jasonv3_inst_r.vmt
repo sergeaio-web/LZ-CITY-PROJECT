@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jasonpart3/Jason_VRetro_Head_Diffuse"
+	"$bumpmap" "models/jasonpart3/Jason_V3_Eyes_Reflection_Normal"
+                 "$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "20"
+                "$phongexponent" "140"	
+	"$phongfresnelranges"	"[.3 1 8]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "3"											
+	"$rimlightboost" ".25"										
+	"$rimmask" "1" 
+
+}
+

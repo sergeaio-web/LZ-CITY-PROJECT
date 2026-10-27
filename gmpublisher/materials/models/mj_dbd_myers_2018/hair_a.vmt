@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_dbd_myers_2018/hair"
+	"$alphatest" "1" 
+
+	"$AmbientOcclusion" "1"
+	"$nocull" "0"
+	
+	"phong" "1"
+	"$phongexponent" "6"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+}

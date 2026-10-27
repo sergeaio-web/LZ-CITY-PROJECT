@@ -1,0 +1,8 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "school/floor01"
+	"$surfaceprop" "tile"
+	"$bumpmap" "concrete/concretefloor005a_normal"
+	"%keywords" "school"
+}

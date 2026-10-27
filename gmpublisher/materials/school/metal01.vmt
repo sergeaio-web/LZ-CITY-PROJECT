@@ -1,0 +1,7 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "school/metal01"
+	"$surfaceprop" "metal"
+	"%keywords" "school"
+}

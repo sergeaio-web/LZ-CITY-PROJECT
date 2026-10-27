@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "weapons/L4D2_MW2019/Pitchfork/pitchfork_d"
+	"$bumpmap" "weapons/L4D2_MW2019/Pitchfork/pitchfork_n"
+	$phongexponenttexture	"weapons/L4D2_MW2019/Pitchfork/pitchfork_s"
+	
+	$phong	"1"
+	$phongboost	"3"
+	$phongfresnelranges	"[.78 .9 1]"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"[.125 .125 .125]"
+	$normalmapalphaenvmapmask	"1"
+	$envmapfresnel	"1"
+
+	$rimlight	"1"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+}

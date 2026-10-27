@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/leather/Eyes"
+	"$bumpmap" "models/leather/EyesN"
+}

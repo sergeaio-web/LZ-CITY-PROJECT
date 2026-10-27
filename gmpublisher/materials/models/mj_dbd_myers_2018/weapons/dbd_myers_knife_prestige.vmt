@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_dbd_myers/weapons/dbd_myers_knife_prestige"
+	"$bumpmap" "models/mj_dbd_myers/weapons/dbd_myers_knife_prestige_n"
+	
+	
+                 $halflambert "1"
+
+"$phong" "1" 
+                 "$phongexponent" "10"
+                 "$phongboost" "2"
+                 "$phongfresnelranges" "[.23 .23 .23 ]"
+               
+}
+

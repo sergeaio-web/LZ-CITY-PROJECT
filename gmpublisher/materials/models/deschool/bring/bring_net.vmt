@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "gmdeschool/bring_net"
+	$nocull 1
+
+$translucent 1
+}

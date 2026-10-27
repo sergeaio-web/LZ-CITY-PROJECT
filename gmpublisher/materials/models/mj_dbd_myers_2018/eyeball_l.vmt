@@ -1,0 +1,24 @@
+"EyeRefract"
+{
+	$Iris "models/mj_dbd_myers_2018/eyeball"
+
+	$ambientocclusion 1
+	$ambientocclcolor "[.25 .25 .25]"
+
+	"$AmbientOcclTexture" "Engine/eyeball_l_ambient"
+	"$CorneaTexture"      "Engine/eye-cornea"      		           	
+	"$Envmap"             "Engine/eye-reflection-cubemap-" 	
+
+	$EyeballRadius 0.5		// Default 0.5
+	$Dilation 0.5					// Default 0.5
+	$ParallaxStrength 0.25          // Default 0.25
+	$CorneaBumpStrength 0			// Default 1.0
+
+	$halflambert 1
+
+
+	$RaytraceSphere 0 		
+	$SphereTexkillCombo 0
+
+}
+

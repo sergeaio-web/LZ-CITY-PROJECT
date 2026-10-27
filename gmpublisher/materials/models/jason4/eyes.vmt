@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jason4/head"
+	"$bumpmap" "models/jason4/head_n"
+	"$nocull" "1"
+	"$phong" "1"
+		
+	"$phongexponent" "0"
+	"$phongalbedotint" "1"
+	"$phongboost" "0" 
+	"$phongfresnelranges"	"[10 12 30]"
+}

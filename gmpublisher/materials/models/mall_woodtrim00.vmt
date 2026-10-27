@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+$basetexture "gmdeschool/mall_woodtrim00"
+$envmap env_cubemap
+$basealphaenvmapmask 1
+$envmaptint "[.25 .25 .25]"
+$surfaceprop wood
+$scale 0.125
+}

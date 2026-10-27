@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jasonpart3/Jason_VRetro_Pants_Diffuse"
+	"$bumpmap" "models/jasonpart3/Jason_V3_Pants_Normal"
+                 "$halflambert" "1"
+
+                "$basemapalphaenvmapmask" 1
+	"$envmaptint" "[ 1 1 1 ]"
+
+	"$phong" "1"
+	"$phongboost" "2"
+                "$phongexponent" "45"	
+	"$phongfresnelranges"	"[.3 1 8]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "3"											
+	"$rimlightboost" ".25"										
+	"$rimmask" "1" 
+
+}
+

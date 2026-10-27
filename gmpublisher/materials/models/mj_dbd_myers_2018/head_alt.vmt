@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_dbd_myers_2018/head_alt"
+	"$bumpmap" "models/mj_dbd_myers_2018/head_alt_n"
+	
+	
+                 $halflambert "1"
+$nocull 1
+"$phong" "1" 
+                 "$phongexponent" "10"
+                 "$phongboost" "0.1"
+                 "$phongfresnelranges" "[.23 .23 .23 ]"
+               
+}
+

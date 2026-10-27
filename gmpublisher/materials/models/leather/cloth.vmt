@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/leather/Cloth"
+	"$bumpmap" "models/leather/ClothN"
+}
